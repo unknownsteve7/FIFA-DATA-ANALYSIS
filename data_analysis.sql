@@ -179,7 +179,7 @@ select city,count(*) as num_matches from fixtures group by city order by num_mat
 SELECT team1_confederation, team2_confederation, 
        COUNT(*) as matches
 FROM fixtures
-WHERE team1_confederation IS NOT NULL  -- null rows exclude cheyyi
+WHERE team1_confederation IS NOT NULL  
 GROUP BY team1_confederation, team2_confederation
 ORDER BY matches DESC;
 
