@@ -2,7 +2,9 @@
 
 ## Dashboard Demo
 
-![FIFA Dashboard Demo](assets/FIFA_ANALYSIS.gif)## Project at a Glance
+![FIFA Dashboard Demo](assets/FIFA_ANALYSIS.gif)
+
+## Project at a Glance
 
 | Metric | Value |
 |----------|-------|
