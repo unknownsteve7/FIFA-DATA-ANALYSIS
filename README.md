@@ -136,13 +136,6 @@ Some of the custom calculations used in the project include:
 
 ---
 
-## Future Enhancements
-
-* Player-level advanced statistics
-* Team performance prediction models
-* Expected Goals (xG) integration
-* Live API integration for future tournaments
-* Publish to Power BI Service with mobile-optimized layouts
 
 ---
 
