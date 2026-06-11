@@ -1,5 +1,8 @@
 # FIFA World Cup Legacy Dashboard
-## Project at a Glance
+
+## Dashboard Demo
+
+![FIFA Dashboard Demo](assets/FIFA_ANALYSIS.gif)## Project at a Glance
 
 | Metric | Value |
 |----------|-------|
