@@ -140,8 +140,19 @@ Some of the custom calculations used in the project include:
 * Designed with a custom football-inspired theme for an engaging user experience
 
 ---
+## Dashboard Screenshots
 
+| Tournament Overview | Match Analysis |
+|---------------------|----------------|
+| ![](assets/1.png) | ![](assets/2.png) |
 
+| Golden Boot Story | Nations & Confederations |
+|-------------------|--------------------------|
+| ![](assets/3.png) | ![](assets/4.png) |
+
+| FIFA World Cup 2026 Preview |
+|-----------------------------|
+| ![](assets/5.png) |
 ---
 
 ## Author
